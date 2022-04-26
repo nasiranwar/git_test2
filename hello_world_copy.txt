@@ -1,0 +1,14 @@
+testing the yesterday's learning about...
+editing
+staging,
+&
+committing
+and now edited again after putting in staging area but before committing
+result: now i can see both options of committing and staging...
+I may commit rows 1 to 5 without row 6 or......
+I may used git add command to add row 6 and bring it into staging area.
+So I have both options.
+I have commited the original hello_world.txt file &
+and in this step i am going to use git restore command
+and lets see what happens.
+and I am seeing the file color in red in git status.
