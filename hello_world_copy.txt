@@ -12,3 +12,4 @@ I have commited the original hello_world.txt file &
 and in this step i am going to use git restore command
 and lets see what happens.
 and I am seeing the file color in red in git status.
+again going to stage it
